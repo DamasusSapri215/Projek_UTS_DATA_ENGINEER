@@ -1,0 +1,14 @@
+{
+    "input_rows": 100000,
+    "clean_rows": 100000,
+    "quarantine_rows": 0,
+    "reconciliation_passed": true,
+    "validation_rules": [
+        "order_id wajib terisi",
+        "order_id harus unik",
+        "total_qty harus lebih dari nol jika tersedia",
+        "total_returned_qty tidak boleh negatif jika tersedia",
+        "num_product_categories tidak boleh negatif jika tersedia",
+        "total_pembayaran tidak boleh negatif jika tersedia"
+    ]
+}

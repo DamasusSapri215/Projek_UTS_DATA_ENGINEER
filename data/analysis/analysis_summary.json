@@ -1,0 +1,12 @@
+{
+    "transactions": 100000,
+    "unique_items": 37,
+    "min_support": 0.01,
+    "min_confidence": 0.3,
+    "apriori_frequent_itemsets": 18,
+    "fpgrowth_frequent_itemsets": 18,
+    "apriori_rules": 0,
+    "fpgrowth_rules": 0,
+    "apriori_runtime_seconds": 0.0322,
+    "fpgrowth_runtime_seconds": 0.1382
+}

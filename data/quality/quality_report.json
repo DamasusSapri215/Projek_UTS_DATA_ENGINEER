@@ -1,0 +1,28 @@
+{
+    "total_rows": 100000,
+    "unique_order_ids": 100000,
+    "null_order_ids": 0,
+    "duplicate_order_ids": 0,
+    "null_counts_by_column": {
+        "order_id": 0,
+        "total_qty": 0,
+        "total_weight_gr": 0,
+        "total_returned_qty": 0,
+        "total_diskon": 0,
+        "product_categories": 0,
+        "num_product_categories": 0,
+        "status_pesanan": 0,
+        "alasan_pembatalan": 0,
+        "opsi_pengiriman": 0,
+        "metode_pembayaran": 1507,
+        "kota_kabupaten": 0,
+        "provinsi": 0,
+        "ongkos_kirim_dibayar_oleh_pembeli": 0,
+        "estimasi_potongan_biaya_pengiriman": 0,
+        "total_pembayaran": 0,
+        "perkiraan_ongkos_kirim": 0,
+        "waktu_pesanan_dibuat": 0,
+        "order_date": 0
+    },
+    "category_consistency_issues": 0
+}
